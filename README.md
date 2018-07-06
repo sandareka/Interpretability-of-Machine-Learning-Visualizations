@@ -12,6 +12,8 @@ For this example, I will use BVLC reference caffenet model which is trained to c
  
 ./data/ilsvrc12/get_ilsvrc_aux.sh
 ```
+![test|50%](/images/cat.jpg)
+
 Original Image                                                   |  GradCAM
 :---------------------------------------------------------------:|:-------------------------:
 ![test|50%](/images/cat.jpg)  |  ![test](/results/catgradCAM.png)
