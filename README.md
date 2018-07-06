@@ -12,7 +12,7 @@ For this example, I will use BVLC reference caffenet model which is trained to c
  
 ./data/ilsvrc12/get_ilsvrc_aux.sh
 ```
-![](https://github.com/sandareka/Interpretability-of-Machine-Learning---Visualizations/blob/master/images/cat.jpg =250x250)
+![](https://github.com/sandareka/Interpretability-of-Machine-Learning---Visualizations/blob/master/images/cat.jpg | width=100)
 
 Original Image                                                   |  GradCAM
 :---------------------------------------------------------------:|:-------------------------:
