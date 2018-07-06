@@ -16,5 +16,5 @@ For this example, I will use BVLC reference caffenet model which is trained to c
 
 Original Image                                                   |  GradCAM
 :---------------------------------------------------------------:|:-------------------------:
-<img src="images/cat.jpg" width="40%">  |  <img src="images/catgradCAM.png" width="60%">
+<img src="images/cat.jpg" width="40%">  |  <img src="results/catgradCAM.png" width="60%">
 
