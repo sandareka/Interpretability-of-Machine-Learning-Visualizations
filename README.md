@@ -1,4 +1,4 @@
-# Interpretability-of-Machine-Learning---Visualizations
+# Interpretability of Machine Learning-Visualizations
 
 ## Gradient-weighted Class Activation Mapping (Grad-CAM) 
 
