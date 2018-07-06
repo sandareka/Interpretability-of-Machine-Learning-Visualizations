@@ -12,7 +12,7 @@ For this example, I will use BVLC reference caffenet model which is trained to c
  
 ./data/ilsvrc12/get_ilsvrc_aux.sh
 ```
-![test|50%](/images/cat.jpg)
+![](/images/cat.jpg =250x250)
 
 Original Image                                                   |  GradCAM
 :---------------------------------------------------------------:|:-------------------------:
