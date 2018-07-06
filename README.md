@@ -12,4 +12,7 @@ For this example, I will use BVLC reference caffenet model which is trained to c
  
 ./data/ilsvrc12/get_ilsvrc_aux.sh
 ```
-![Alt text](images/cat.jpg?raw=true "Title")
+Solarized dark                        |  Solarized Ocean
+:------------------------------------:|:-------------------------:
+![](images/cat.jpg?raw=true "Title")  |  ![](images/cat.jpg?raw=true "Title")
+
