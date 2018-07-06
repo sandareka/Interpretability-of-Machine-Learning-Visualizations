@@ -12,7 +12,7 @@ For this example, I will use BVLC reference caffenet model which is trained to c
  
 ./data/ilsvrc12/get_ilsvrc_aux.sh
 ```
-Solarized dark                        |  Solarized Ocean
+Original Image                        |  GradCAM
 :------------------------------------:|:-------------------------:
-![](images/cat.jpg?raw=true "Title")  |  ![](images/cat.jpg?raw=true "Title")
+![](images/cat.jpg?raw=true "Title"){:height="50%" width="50%"}  |  ![](images/cat.jpg?raw=true "Title"){:height="50%" width="50%"}
 
