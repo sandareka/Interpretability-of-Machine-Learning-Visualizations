@@ -8,5 +8,8 @@ For this implementation I'm using a pretrained image classification model downlo
 
 For this example, I will use BVLC reference caffenet model which is trained to classify images into 1000 classes. To download the model, go to the folder where you installed Caffe, e.g. C:\Caffe and run
 
+'''
  ./scripts/download_model_binary.py models/bvlc_reference_caffenet
+ 
 ./data/ilsvrc12/get_ilsvrc_aux.sh
+'''
