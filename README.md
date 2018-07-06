@@ -12,9 +12,9 @@ For this example, I will use BVLC reference caffenet model which is trained to c
  
 ./data/ilsvrc12/get_ilsvrc_aux.sh
 ```
-<img src="images/cat.jpg" width="40%">
+
 
 Original Image                                                   |  GradCAM
 :---------------------------------------------------------------:|:-------------------------:
-![test](/images/cat.jpg)  |  ![test](/results/catgradCAM.png)
+<img src="images/cat.jpg" width="40%">  |  ![test](/results/catgradCAM.png)
 
