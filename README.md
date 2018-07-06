@@ -14,5 +14,5 @@ For this example, I will use BVLC reference caffenet model which is trained to c
 ```
 Original Image                                                   |  GradCAM
 :---------------------------------------------------------------:|:-------------------------:
-![](images/cat.jpg){:height="50%" width="50%"}  |  ![](results/catgradCAM.png){:height="50%" width="50%"}
+![test image size](images/cat.jpg){:height="50%" width="50%"}  |  ![test image size](results/catgradCAM.png){:height="50%" width="50%"}
 
